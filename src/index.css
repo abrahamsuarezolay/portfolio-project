@@ -1,9 +1,16 @@
 
 .about{
   height: 1000px;
+  background-color: cadetblue;
 }
 
 .projects{
+  height: 1000px;
+  background-color: azure;
+}
+
+.contact{
+  background-color: salmon;
   height: 1000px;
 }
 
